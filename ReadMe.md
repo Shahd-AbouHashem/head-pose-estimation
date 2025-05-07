@@ -53,13 +53,13 @@ This project focuses on **head pose estimation** using facial landmarks extracte
 ##  Dataset
 
 We used the **AFLW2000 dataset**, available at:
-👉 [http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)
+ [http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)
 
 This dataset contains:
 
 * 2000 images
 * `.mat` files with ground truth pitch, yaw, roll angles
-* Each image annotated with 68 or 468 landmarks
+* Each image annotated with 468 landmarks
 
 ---
 
@@ -73,6 +73,6 @@ pip install -r requirements.txt
 
 ## Author
 
-Developed by Huda Hesham 
+Developed by HudaMassry
 
 
