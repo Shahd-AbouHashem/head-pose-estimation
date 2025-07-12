@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 
 ## Author
-
-Developed by HudaMassry
+Huda Hisham Ahmed 2001365
+Shahd Mohsen AbouHashem 22P0294
 
 
