@@ -1,8 +1,8 @@
 #  Head Pose Estimation Project
 
 This project focuses on **head pose estimation** using facial landmarks extracted with **MediaPipe**, and prediction using traditional machine learning models like **SVM, KNN, and SGD**. It includes both **regression models (pitch, yaw, roll)** and **orientation classification (Front, Left, Right, Up, Down)**.
-# Milestone 1: Head Pose Estimation using Traditional ML Algorithms
-# Milestone 2: Face Orientation Classification with an Encoder-Decoder Network.
+### **Milestone 1: Head Pose Estimation using Traditional ML Algorithms**
+### **Milestone 2: Face Orientation Classification with an Encoder-Decoder Network.**
 
 ---
 
